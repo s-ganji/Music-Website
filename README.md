@@ -7,5 +7,5 @@ The main features of developed website are as follows:<br />
 3. Possiblity of reserving seats for existing concerts by users <br />
 4. Providing lyrics alongside download option for each song or music video<br />
 5. Categorizing musics based on their types such as pop, rock and ect.<br />
-6. Possiblity of adding comments by users and interacting with each other<br />
+6. Possiblity of adding comments by users and interacting with each other<br /><br />
 This project was implemented with Laravel framework, PHP, CSS and HTML.<br />
